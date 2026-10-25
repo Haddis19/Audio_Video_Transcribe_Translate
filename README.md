@@ -1,5 +1,7 @@
 Audio_Video_Transcribe_Translate
+
 Turn any audio or video into text and subtitles and also translate it. Freeand nothing to install. It runs in your browser on Google Colab.
+
 What it does
 Transcribes audio and video in 99 languages
 Handles mixed languages, like Hindi with some English
