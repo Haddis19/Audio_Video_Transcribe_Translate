@@ -21,3 +21,5 @@ Translation uses Google Translate. If Google is busy, it switches to Meta's offl
 Watch the video guide
 Watch the following video guide
 
+https://youtu.be/lKC_fh_JtxM
+
